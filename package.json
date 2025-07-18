@@ -1,0 +1,14 @@
+{
+  "name": "underground-backend",
+  "version": "1.0.0",
+  "description": "Live and total user counter for Underground",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.1"
+  }
+}
